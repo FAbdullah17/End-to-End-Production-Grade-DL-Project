@@ -1,8 +1,6 @@
-# Production Ready Machine Learning Project
-
+# End-to-End-Production-Grade-DL-Project
 This project aims to build a machine learning pipeline for predicting US visa approvals using historical data. The end-to-end solution includes data ingestion, transformation, model training, evaluation, and deployment using cloud-based CI/CD with AWS and Docker.
 
-![app](https://github.com/user-attachments/assets/e06644db-6499-40b7-8a3c-ae73339f08a9)
 
 
 ## Table of Contents
@@ -57,7 +55,7 @@ The project is organized into various modules, each responsible for a specific s
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/us-visa-approval-prediction.git
+    git clone https://github.com/FAbdullah17/End-to-End-Production-Grade-DL-Projectgit
     cd us-visa-approval-prediction
     ```
 
